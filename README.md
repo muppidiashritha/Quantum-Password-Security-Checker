@@ -8,6 +8,11 @@ This project checks whether a password is weak, medium, or strong.
 
 It also demonstrates a simple quantum search using Grover's Algorithm with Qiskit.
 
+## Features
+- Password strength checker
+- Quantum risk indicator
+- Suggests a stronger password
+  
 ## Files
 - main.py -> Password checker
 - quantum_demo.py -> Quantum search demo
@@ -18,6 +23,8 @@ It also demonstrates a simple quantum search using Grover's Algorithm with Qiski
 - Qiskit
 - Qiskit Aer
 - VS Code
+- Git
+- GitHub
 
 ## How to Run
 
